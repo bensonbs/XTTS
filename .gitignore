@@ -180,3 +180,4 @@ JS_Dataset/train_tune.tar.gz
 JS_Dataset/valid_tune/audio_sum.hdf5
 JS_Dataset/wavs/audio_sum.hdf5
 JS_Dataset/*
+whisper/*
